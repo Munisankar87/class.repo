@@ -1,0 +1,3 @@
+Conduct periodic audits of the pipeline using CloudTrail, 
+Azure Monitor, or Splunk 
+to ensure compliance with security and governance policies.
